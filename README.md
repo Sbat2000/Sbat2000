@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **zevzok@yandex.ru**
 
-<h3 align="left">Connect with me:</h3> [Telegram]("https://t.me/Boboboshechka")
+<h3 align="left">Connect with me:</h3> [Telegram](https://t.me/Boboboshechka) 
 <p align="left">
 </p>
 
