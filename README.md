@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h3 align="center">I love iOS, cycling, mountains and running.</h3>
 
-- 🔭 I’m currently working on [FakeNFT Store](https://github.com/Sbat2000/iOS-FakeNFT)
+- 🔭 My last pojects:
+- [FakeNFT Store](https://github.com/Sbat2000/iOS-FakeNFT)
 
 
 <h3 align="left">Connect with me:</h3> 
