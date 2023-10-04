@@ -4,8 +4,7 @@
 - 📫 How to reach me **zevzok@yandex.ru**
 
 <h3 align="left">Connect with me:</h3> 
-[Дизайн Figma](https://www.figma.com/file/owAO4CAPTJdpM1BZU5JHv7/Tracker-(YP)?t=SZDLmkWeOPX4y6mp-0)
-[Telegram](https://t.me/Boboboshechka) 
+<a href="https://t.me/Boboboshechka">Telegram</a>
 <p align="left">
 </p>
 
