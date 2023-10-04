@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h3 align="center">I love iOS, cycling, mountains and running.</h3>
 
-- 📫 How to reach me **zevzok@yandex.ru**
+- 🔭 I’m currently working on [FakeNFT Store](https://github.com/Sbat2000/iOS-FakeNFT)
+
 
 <h3 align="left">Connect with me:</h3> 
 <a href="https://t.me/Boboboshechka">Telegram</a>
