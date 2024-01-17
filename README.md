@@ -6,7 +6,7 @@
 - [FakeNFT Store](https://github.com/Sbat2000/iOS-FakeNFT)
 - [Tracker](https://github.com/Sbat2000/Tracker)
 - [Image feed](https://github.com/Sbat2000/imageFeed)
-- [MovieQuiz](https://github.com/Sbat2000/MovieQuiz-ios)
+
 
 
 <h3 align="left">Connect with me:</h3> 
